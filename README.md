@@ -21,7 +21,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-stats.vercel.app/api?username=acogkr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/acogkr)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=acogkr&theme=tokyonight&hide_border=true)](https://github.com/acogkr)
+
 
 </div>
 </div>
