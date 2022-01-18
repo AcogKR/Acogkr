@@ -1,10 +1,11 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Acog<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">I'm just an ordinary programming college student...</h3>
-
 <ul style="list-style: none;">
 
 </ul>
 <div align="center">
+<h1>Hi, I'm Acog<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+
+<h3>I'm just an ordinary programming college student... Hello..</h3>
+
 <a href="https://github.com/acogkr" target="_blank"><img src="https://img.shields.io/badge/-Github-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://qr.kakao.com/talk/.ReiTFSG5aWzUG7AVMWfp3n6Y9g-"><img src="https://img.shields.io/badge/-kakaotalk-white?logo=kakaotalk&style=flat-square" alt="kakao"/></a>
 <a href="https://www.instagram.com/acog_kr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
@@ -16,7 +17,7 @@
 
 <div align="center">
 
-<h2 style="margin: 5px 10px;">GitHub Statistics </h2> 
+<h2 style="margin: 5px 10px;">GitHub Statistics </h2>
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-stats.vercel.app/api?username=acogkr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/acogkr)
