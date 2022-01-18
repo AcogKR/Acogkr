@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<h2 style="margin: 5px 10px;">GitHub Statistics </h2>
+<h2 style="margin: 5px 10px;">GitHub Stats</h2>
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-stats.vercel.app/api?username=acogkr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/acogkr)
