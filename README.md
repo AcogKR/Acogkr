@@ -7,7 +7,8 @@
 <h3>I'm just an ordinary programming college student... Hello..</h3>
 
 <a href="https://github.com/acogkr" target="_blank"><img src="https://img.shields.io/badge/-Github-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://qr.kakao.com/talk/.ReiTFSG5aWzUG7AVMWfp3n6Y9g-"><img src="https://img.shields.io/badge/-kakaotalk-white?logo=kakaotalk&style=flat-square" alt="kakao"/></a>
+<a href="https://qr.kakao.com/talk/.ReiTFSG5aWzUG7AVMWfp3n6Y9g-"><img src="https://img.shields.io/badge/-kakaotalk-white?logo=kakaotalk&style=flat-square" alt="kakao"/>
+<a href="https://discordapp.com/users/912599389061652491/"><img src="https://img.shields.io/badge/-Discord-dcfffa?logo=discord&style=flat-square" alt="kakao"/>
 <a href="https://www.instagram.com/acog_kr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:acog.seongmin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?logo=gmail&style=flat-square" alt="gmail"/></a><br/>
 </div>
