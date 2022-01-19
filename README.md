@@ -40,8 +40,8 @@
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-white?logo=kotlin&style=for-the-badge" alt="kotlin"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/spring.js-white?logo=spring&style=for-the-badge" alt="spring"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
+  <a href="https://github.com/PluginHeleper" target="_blank"><img src="https://img.shields.io/badge/-PluginHelper-FCF9DE?logo=java&logoColor=black&hide_border=false&textColor=white&style=flat-square" alt="pluginhelper"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/mariadb-white.svg?style=for-the-badge&logo=mariadb&logoColor=FF2D20" alt="mariadb"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/gradle-white.svg?style=for-the-badge&logo=gradle&logoColor=122e39" alt="gradle"/></a>
 
 ---
   
