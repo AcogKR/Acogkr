@@ -21,7 +21,7 @@
 <h2 style="margin: 5px 10px;">GitHub Stats</h2>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-[![](https://github-readme-stats.vercel.app/api?username=acogkr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/acogkr)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acogkr&count_private=true&show_icons=true&hide_border=false)](https://github.com/acogkr)
 
 
 </div>
