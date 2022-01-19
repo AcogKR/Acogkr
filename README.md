@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/acog_kr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:acog.seongmin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?logo=gmail&style=flat-square" alt="gmail"/></a><br/>
 </div>
-<a href="https://github.com/PluginHeleper" target="_blank"><img src="https://img.shields.io/badge/-PluginHelper-FCF9DE?logo=java&logoColor=black&hide_border=false&textColor=white&style=flat-square" alt="pluginhelper"/></a>
+<a href="https://github.com/PluginHeleper" target="_blank"><img src="https://img.shields.io/badge/-PluginHelper-FCF9DE?logo=java&logoColor=black&textColor=white&style=flat-square" alt="pluginhelper"/></a>
 
 ---
 
