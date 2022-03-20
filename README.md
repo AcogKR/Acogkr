@@ -13,17 +13,7 @@
 <a href="https://www.instagram.com/acog_kr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:acog.seongmin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?logo=gmail&style=flat-square" alt="gmail"/></a><br/>
 
----
 
-<div align="center">
-
-<h2 style="margin: 5px 10px;">GitHub Stats</h2>
-<div style="display: flex; align-items: center; justify-content: center;">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acogkr&count_private=true&show_icons=true&hide_border=false)](https://github.com/acogkr)
-
-
-</div>
 </div>
 
 <div align="center">
