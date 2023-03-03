@@ -1,5 +1,1 @@
-<ul style="list-style: none;">
-
-</ul>
-<div align="center">
-<h1>Hi, I'm Acog<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+I feel limited because I only have experience in Minecraft development and lack knowledge in other fields.
